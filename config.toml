@@ -6,7 +6,7 @@ publishDir = "docs"
 
 
 [params]
-  twitter = "https://twitter.com/rodrigo_balbino"
+  twitter = "https://twitter.com/B4L31N0"
   github = "https://github.com/rodbalbino/"
 
   iconOrder = ["Twitter", "GitHub"]
